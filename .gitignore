@@ -8,3 +8,5 @@
 *.vsidx
 *.suo
 *.bin
+bin/
+obj/
